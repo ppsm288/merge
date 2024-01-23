@@ -1,0 +1,17 @@
+Use git merge when:
+
+You want to preserve a clear history with separate merge commits.
+Collaborating with a team where a linear history is not a strict requirement.
+Use git rebase when:
+
+You want a linear history without additional merge commits.
+Working on a feature branch and want to incorporate changes from the main branch into your feature branch.
+se git merge when:
+
+You want to preserve a clear history with separate merge commits.
+Collaborating with a team where a linear history is not a strict requirement.
+Use git rebase when:
+
+You want a linear history without additional merge commits.
+Working on a feature branch and want to incorporate changes from the main branch into your feature branch.
+Collaborating on a feature branch with a small team where linear history is preferred.
